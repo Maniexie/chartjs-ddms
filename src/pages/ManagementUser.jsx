@@ -5,7 +5,7 @@ const ManagementUser = () => {
     return (
         <div>
             <Sidebar>
-                <h1>test</h1>
+                <h1>halaman Management User</h1>
             </Sidebar>
         </div>
     )
